@@ -9,4 +9,5 @@ loop9
 
 
 loop0的asp（初次迭代）
+![Example GIF](loop0asp.gif)
 ![Example PNG](18cf74f54284636d1e2d00012996dff.png)
