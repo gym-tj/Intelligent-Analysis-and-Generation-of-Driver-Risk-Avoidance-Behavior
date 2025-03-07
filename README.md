@@ -7,10 +7,15 @@ This repository contains simulation videos demonstrating driver risk avoidance b
 Below are the four video files hosted in this repository:
 
 ### Video 1: Example 1
-<video controls width="640" height="360">
-  <source src="example1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+# 项目标题
+
+## 示例动画和图片
+
+这是一个 GIF 示例：
+![Example GIF](Example11-ezgif.com-speed.gif)
+
+这是一个 PNG 示例：
+![Example PNG](18cf74f54284636d1e2d00012996dff.png)
 
 ### Video 2: Example 2
 <video controls width="640" height="360">
