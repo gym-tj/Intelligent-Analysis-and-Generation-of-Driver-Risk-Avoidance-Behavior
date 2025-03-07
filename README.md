@@ -15,7 +15,7 @@ Below are the four video files hosted in this repository:
 ![Example GIF](Example11-ezgif.com-speed.gif)
 
 这是一个 PNG 示例：
-![Example PNG](18cf74f54284636d1e2d00012996dff.png)
+![Example PNG](跌打九次形成的asp.png)
 
 ### Video 2: Example 2
 <video controls width="640" height="360">
