@@ -28,4 +28,6 @@ loop0的asp
 
 未开启个性化预警系统后驾驶员的驾驶片段
 ![Example GIF](2.gif)
+模拟器中的一个预警避险片段
 
+![Example GIF](3.gif)
